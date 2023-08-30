@@ -3,17 +3,17 @@ Vamos a identificar los siguientes tipos de datos
 
 NUMEROS ENTEROS : 
 
-      TU RESPUESTA AQUI
+      1,2,3,4,5,...
 
 NUMEROS DECIMALES: 
 
-      TU RESPUESTA AQUI
+      5.1,9.81,3.1416,...
 
 CARACTER : 
 
-      TU RESPUESTA AQUI
+      @,a,S...
 
 CADENA DE CARACTERES : 
 
-      TU RESPUESTA AQUI
+      Mi nombre es Felipe
     
